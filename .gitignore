@@ -1,0 +1,86 @@
+# .NET Core
+bin/
+obj/
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# ASP.NET Core SignalR
+*.db
+
+# Debugging
+.vscode/
+.idea/
+.vs/
+**/Properties/launchSettings.json
+
+# Dotnet Publish
+publish/
+publishProfile/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+# Uncomment if necessary
+# !/packages/build/
+
+# npm Packages
+node_modules/
+
+# Azure folder
+Azure/
+
+# JetBrains Rider
+.idea/
+
+# VS Code directories and files
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Python generated files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Mac files
+.DS_Store
+
+# Log files
+*.log
+
+# Local History
+.localhistory
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Entity Framework Migrations
+Migrations/
